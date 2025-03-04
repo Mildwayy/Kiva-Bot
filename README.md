@@ -3,7 +3,7 @@
 1. clone repo git clone https://github.com/Mildwayy/Kiva-Bot
 2. cd Kiva-Bot
 
-3. npm install axios
+3. npm install axios cli-table
 
 4. isi format token.txt (use bearer token)
 
